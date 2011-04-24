@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"os",
+				"os"
+			],
+			[
+				"co",
+				"connects"
+			],
+			[
+				"P",
+				"PrintBoard"
+			],
+			[
+				"pl",
+				"player_two"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"player_o",
+				"player_one"
+			],
+			[
+				"pla",
+				"player_two"
+			],
+			[
+				"bo",
+				"boardarr"
+			],
+			[
+				"graph",
+				"graph"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Eric/Documents/My Dropbox/go-project/src/board.go",
+			"settings":
+			{
+				"buffer_size": 3653,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Eric/Documents/My Dropbox/go-project/src/main.go",
+			"settings":
+			{
+				"buffer_size": 1796,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"file_history":
+	[
+		"/C/Users/Eric/Documents/My Dropbox/go-project/src/board.go",
+		"/C/Users/Eric/Documents/My Dropbox/go-project/src/main.go",
+		"/C/Users/Eric/Documents/My Dropbox/go-project/go-project.sublime-project",
+		"/C/Program Files (x86)/Notepad++/userDefinLang.xml",
+		"/C/Users/Eric/AppData/Local/Temp/7zO9DFA.tmp/userDefineLang_Go.xml",
+		"/C/Users/Eric/AppData/Local/Temp/7zOECDA.tmp/userDefineLang_Go.xml",
+		"/C/Users/Eric/AppData/Roaming/Notepad++/langs.xml",
+		"/C/Program Files (x86)/Notepad++/plugins/APIs/go.xml",
+		"/home/eric/projects/go-project/src/board/board.go",
+		"/home/eric/projects/go-project/src/main.go",
+		"/home/eric/projects/old/workspace/connectfour/src/connectfour.c",
+		"/home/eric/projects/old/workspace/connectfour/src/board.c",
+		"/home/eric/projects/go-project/go-project.sublime-project",
+		"/home/eric/projects/go-project/.gdrc",
+		"/home/eric/projects/tasks/tasks.go",
+		"/home/eric/projects/go-project/pkg/main.go",
+		"/home/eric/projects/go-project/pkg/board.go",
+		"/home/eric/projects/go-project/pkg/connectfour.go",
+		"/home/eric/projects/go-project/pkg/board/board.go",
+		"/home/eric/projects/go-project/go-project",
+		"/home/eric/projects/go-project/pkg/c4",
+		"/home/eric/.config/sublime-text-2/Packages/User/Godag.sublime-build",
+		"/home/eric/.config/sublime-text-2/Packages/Ruby/Ruby.sublime-build",
+		"/home/eric/projects/lisp/project6.lisp",
+		"/home/eric/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+		"/home/eric/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/eric/projects/lisp/.project6.lisp.swp",
+		"/home/eric/projects/old/workspace/connectfour/src/board.h",
+		"/home/eric/projects/go-project/goc4/tasks/tasks.go",
+		"/home/eric/projects/go-project/connectfour.go",
+		"/home/eric/projects/go-project/board.go",
+		"/home/eric/projects/goc4/tasks/tasks.go",
+		"/home/eric/projects/largestclique/project.rb",
+		"/home/eric/projects/largestclique/graphtest.rb",
+		"/home/eric/fun.clisp"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ba",
+			"rowsize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pieces",
+			"b.pieces",
+			"colsize"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/C/Users/Eric/Documents/My Dropbox/go-project"
+		]
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Eric/Documents/My Dropbox/go-project/src/board.go",
+					"settings":
+					{
+						"buffer_size": 3653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1240,
+								1240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 336,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Eric/Documents/My Dropbox/go-project/src/main.go",
+					"settings":
+					{
+						"buffer_size": 1796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1796
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 500,
+		"selected_items":
+		[
+		],
+		"width": 380
+	},
+	"show_minimap": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150,
+	"status_bar_visible": true
+}

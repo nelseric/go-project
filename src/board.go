@@ -129,7 +129,6 @@ func (b *Board) Check() (is_win bool, winner int) {
                     return true, b.pieces[col][row]
                 }
             }
-
         }
     }
     // checck diagonally \
@@ -149,7 +148,6 @@ func (b *Board) Check() (is_win bool, winner int) {
                     return true, b.pieces[col][row]
                 }
             }
-
         }
     }
 
