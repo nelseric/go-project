@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"pl",
+				"players"
+			],
+			[
+				"p",
+				"pieces"
+			],
+			[
+				"pi",
+				"pieces"
+			],
+			[
+				"con",
+				"connects"
+			],
+			[
+				"pla",
+				"playing"
+			],
+			[
 				"os",
 				"os"
 			],
@@ -16,20 +36,12 @@
 				"PrintBoard"
 			],
 			[
-				"pl",
-				"player_two"
-			],
-			[
 				"s",
 				"size"
 			],
 			[
 				"player_o",
 				"player_one"
-			],
-			[
-				"pla",
-				"player_two"
 			],
 			[
 				"bo",
@@ -44,27 +56,50 @@
 	"buffers":
 	[
 		{
-			"file": "/home/eric/projects/go-project/src/board/board.go",
+			"file": "/home/eric/projects/go-project/src/main.go",
 			"settings":
 			{
-				"buffer_size": 3248,
+				"buffer_size": 1796,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "package main\n\nimport (\n    board   \"board\"\n    os      \"os\"\n    fmt     \"fmt\"\n    strconv \"strconv\"\n)\n\nfunc main() {\n    size := os.Args[1]\n    i, err := strconv.Atoi(size)\n    if err != nil {\n        // handle error\n        fmt.Println(s, err)\n        os.Exit(2)\n    }\n    //b := board.NewBoard(8, 4)\n    //b.Print()\n\n}\n",
-			"file": "/home/eric/projects/go-project/src/main.go",
+			"file": "/home/eric/projects/go-project/src/board.go",
 			"settings":
 			{
-				"buffer_size": 321,
+				"buffer_size": 3655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/eric/projects/old/workspace/connectfour/src/board.c",
+			"settings":
+			{
+				"buffer_size": 2856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/eric/projects/old/workspace/connectfour/src/connectfour.c",
+			"settings":
+			{
+				"buffer_size": 1882,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/User/Godag.sublime-build",
 	"file_history":
 	[
+		"/home/eric/projects/go-project/src/board/board.go",
 		"/home/eric/projects/old/workspace/connectfour/src/connectfour.c",
+		"/home/eric/.config/sublime-text-2/Packages/User/Godag.sublime-build",
+		"/home/eric/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/eric/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/eric/go/bin/gde",
+		"/home/eric/.config/sublime-text-2/Packages/Ruby/Ruby.sublime-build",
+		"/home/eric/.bashrc",
+		"/home/eric/go/bin/gomake",
 		"/home/eric/projects/old/workspace/connectfour/src/board.c",
 		"/home/eric/projects/go-project/src/main.go",
 		"/home/eric/projects/go-project/go-project.sublime-project",
@@ -76,11 +111,8 @@
 		"/home/eric/projects/go-project/pkg/board/board.go",
 		"/home/eric/projects/go-project/go-project",
 		"/home/eric/projects/go-project/pkg/c4",
-		"/home/eric/.config/sublime-text-2/Packages/User/Godag.sublime-build",
-		"/home/eric/.config/sublime-text-2/Packages/Ruby/Ruby.sublime-build",
 		"/home/eric/projects/lisp/project6.lisp",
 		"/home/eric/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
-		"/home/eric/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/eric/projects/lisp/.project6.lisp.swp",
 		"/home/eric/projects/old/workspace/connectfour/src/board.h",
 		"/home/eric/projects/go-project/goc4/tasks/tasks.go",
@@ -140,10 +172,38 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/eric/projects/go-project/src/board/board.go",
+					"file": "/home/eric/projects/go-project/src/main.go",
 					"settings":
 					{
-						"buffer_size": 3248,
+						"buffer_size": 1796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1478,
+								1478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 480,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/eric/projects/go-project/src/board.go",
+					"settings":
+					{
+						"buffer_size": 3655,
 						"regions":
 						{
 						},
@@ -156,37 +216,76 @@
 						],
 						"settings":
 						{
+							"rulers":
+							[
+								80
+							],
 							"syntax": "Packages/Go/Go.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0,
-						"translation.y": 2112,
+						"translation.y": 0,
 						"zoom_level": 1
 					},
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
-					"buffer": 1,
-					"file": "/home/eric/projects/go-project/src/main.go",
+					"buffer": 2,
+					"file": "/home/eric/projects/old/workspace/connectfour/src/board.c",
 					"settings":
 					{
-						"buffer_size": 321,
+						"buffer_size": 2856,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								301,
-								301
+								2340,
+								2340
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Go/Go.tmLanguage"
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0,
-						"translation.y": 0,
+						"translation.y": 2016,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/eric/projects/old/workspace/connectfour/src/connectfour.c",
+					"settings":
+					{
+						"buffer_size": 1882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 879,
 						"zoom_level": 1
 					},
 					"type": "text"
@@ -203,11 +302,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0,
+			0.542635658915,
 			1
 		],
 		"rows":
@@ -234,7 +340,7 @@
 		],
 		"width": 380
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150,
