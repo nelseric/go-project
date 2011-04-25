@@ -63,6 +63,9 @@
 	"build_system": "",
 	"file_history":
 	[
+		"/C/Users/Eric/AppData/Local/Temp/scp16849/home/eric/projects/numbers/src/numbers.go",
+		"/C/Users/Eric/AppData/Local/Temp/scp11981/home/eric/projects/numbers/numbers.go",
+		"/C/Users/Eric/AppData/Local/Temp/scp30557/home/eric/projects/gorace/race.go",
 		"/C/Users/Eric/Documents/My Dropbox/go-project/src/board.go",
 		"/C/Users/Eric/Documents/My Dropbox/go-project/src/main.go",
 		"/C/Users/Eric/Documents/My Dropbox/go-project/go-project.sublime-project",
@@ -142,7 +145,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -157,8 +160,8 @@
 						"selection":
 						[
 							[
-								1240,
-								1240
+								500,
+								500
 							]
 						],
 						"settings":
@@ -168,7 +171,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0,
-						"translation.y": 336,
+						"translation.y": 0,
 						"zoom_level": 1
 					},
 					"type": "text"
@@ -185,8 +188,8 @@
 						"selection":
 						[
 							[
-								0,
-								1796
+								102,
+								14
 							]
 						],
 						"settings":
